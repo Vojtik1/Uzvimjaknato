@@ -1,0 +1,40 @@
+table, td, th{
+    border: 3px solid #888;
+    border-collapse: collapse;
+    border-style: double;
+  }
+  table {
+    font-family: arial, sans-serif;
+    
+    width: 60%;
+  }
+  h1{
+    color: black;
+    background-color: blue;
+    text-align: center;
+  }
+    h2{
+        color: black;
+        background-color: cyan	;
+        text-align: center;
+    }
+        h3{
+            color: black;
+            background-color: lightblue;
+            text-align: center;
+        }
+        main, footer, header, body{
+            padding-left: 20%;
+            padding-right: 20%;
+           
+        }
+        main{
+            border: 6px solid black;
+            padding-left: 20%;
+            padding-right: 20%;
+
+  
+        }
+       footer{
+         text-align: center;
+       }
